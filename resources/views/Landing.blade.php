@@ -10,8 +10,8 @@
     <div class="text-4xl font-bold text-center mb-5">
         {{ $message }}
     </div>
-    <div class="w-96 h-96 bg-white flex items-center justify-center rounded-lg">
-        <img src="/images/HelloWorld.png" alt="Family Vector Illustration" class="max-w-full max-h-full object-contain">
+    <div class="max-w-2/3 bg-white flex items-center justify-center rounded-lg">
+        <img src="/images/HelloWorld.png" alt="Family Vector Illustration">
     </div>
 </body>
 </html>
